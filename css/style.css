@@ -1,0 +1,7 @@
+.navLink, h4 {
+    color: white;
+}
+
+.gradient-custom {
+    background: linear-gradient(270deg, #FFFF00 0%, 	#008000 50%, #0000FF 100%);
+  }
