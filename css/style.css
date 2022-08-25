@@ -5,3 +5,24 @@
 .gradient-custom {
     background: linear-gradient(270deg, #FFFF00 0%, 	#008000 50%, #0000FF 100%);
   }
+
+  body {
+    background-color: rgb(178, 201, 186);
+  }
+
+ .col {
+    display: flex;
+    justify-content: space-evenly;
+ }
+
+ .container {
+    margin: 40px 0 40px 0;
+ }
+
+ 
+
+
+ 
+
+
+ 
